@@ -14,7 +14,7 @@ export const portfolios = [
         category: "Personal Portfolio",
         title: "React portfolio website",
         image: js,
-        link2: "https://floresjerome.github.io/Portfolio-ReactJS/",
+        link2: "https://Floresjerome.github.io/Portfolio-ReactJS/",
         icon1: git,
         icon2: eye,
     },
